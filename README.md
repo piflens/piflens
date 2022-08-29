@@ -1,6 +1,6 @@
 ## Hola soy Felipe Salinas 
 -Soy un estudiante de tercer año de la carrera de ingeniería en informática 💻🎓
-### Comenzando a subir proyectos por este medio de la carrera y personales<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Comenzando a subir proyectos por este medio, de la carrera y personales<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 -Tecnologias y herramientas variadas que estoy aprendiendo:
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
